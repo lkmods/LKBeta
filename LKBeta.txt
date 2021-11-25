@@ -1,12 +1,6 @@
 {
- "version":"8.86",
- "expire881":"365",
- "expire870":"180",
- "store":"1",
- "rewards":"",
- "title":"Atualização disponível",
- "description":"A atualização 8.86 está disponível, inclui novas funções e suporte para os novos emojis WhatsApp. Toque em atualizar para fazer o download.",
- "download":"https://t.me/lkmods",
- "users_premium":"",
- "force":"true"
+ "version":"9.05b4",
+ "title":"Atualização disponível 🛠️",
+ "description":"Uma nova atualização está disponível e incluí novos emojis, opção para salvar imagens e/ou vídeos que só poderiam ser vistos uma única vez, possibilidade de filtrar apenas as mensagens envidas por um determinado contato em um grupo e outros recursos.",
+ "download":"https://t.me/lkmodsrepository"
 }
